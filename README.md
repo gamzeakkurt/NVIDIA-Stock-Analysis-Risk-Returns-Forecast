@@ -43,7 +43,7 @@ A data-driven look at NVIDIA (NVDA) stock over 25+ years: returns, risk, technic
 
 ## Run it
 
-**On Kaggle:** import `NVIDIA_Stock_Analysis.ipynb`, turn **Internet on** in the notebook settings (needed for `yfinance`) and run all cells.
+You can run this code on [Kaggle](https://www.kaggle.com/code/gamzeakkurt/nvidia-stock-analysis-risk-returns-forecast)
 
 **Locally:**
 
